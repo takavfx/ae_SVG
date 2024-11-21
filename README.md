@@ -3,7 +3,7 @@ Python-based HDAs for importing and exporting SVG files in Houdini
 
 ![Demo](TestImage.png)
 
-# Installation (Houdini 17.5+)
+# Installation
 
 These SVG tools are included in Aelib (https://github.com/Aeoll/Aelib) - my large Houdini toolkit and HDA collection. I would highly recommend installing Aelib rather than just these SVG tools in isolation.
 
@@ -15,6 +15,13 @@ If you would like to install just these 2 HDAs:
 * For more information on how package files work, see [HERE](https://www.sidefx.com/docs/houdini/ref/plugins.html)
 
 Do not perform this install alongside a full Aelib install as you will create duplicate HDAs!
+
+## Supported Version
+
+* Houdini 17.5
+* Houdini 20.0 (Python 3.10)
+* Houdini 20.5 (Python 3.11, Python 3.10)
+
 
 # Usage
 
